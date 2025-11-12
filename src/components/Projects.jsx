@@ -9,7 +9,7 @@ function Projects() {
             id="projects"
             style={{
                 background: "#F5F0E8",
-                height: "200vh",
+                height: "250vh",
                 paddingTop: "50px",
                 display: "flex",
                 flexDirection: "column",
