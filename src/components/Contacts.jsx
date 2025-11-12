@@ -39,7 +39,7 @@ function Contacts() {
       id="contacts"
       style={{
         background: "#F5F0E8",
-        height: "85vh",
+        height: "100vh",
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
